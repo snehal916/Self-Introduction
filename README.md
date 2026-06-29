@@ -8,10 +8,10 @@ I am passionate about solving real-world problems using data and aspire to build
 
 **Skills**
 
--Python
--SQL
--Data Visualization 
--Data Analytics
+- Python
+- SQL
+- Data Visualization 
+- Data Analytics
 
 **Career Goal**
 
