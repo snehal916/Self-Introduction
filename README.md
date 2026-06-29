@@ -1,28 +1,20 @@
 Hello Everyone!
 My name is Snehal Chandrakant Bachhav.
 
-I am currently pursing a Bachelor of Engineering(B.E.) in Computer Engineering.
+I am currently pursuing a Bachelor of Engineering(B.E.) in Computer Engineering at Gokhake Education Society R.H.Sapat College of Engineering(GESCOE).I am currently in my Third Year(T.E)
+I have interest in data Analytics and Data Science, and I am continuously improving my skills in Python,SQL,Excel,Power BI,and data visualization.
 
-I am actively developing my skills in Data Analytics and Python to strengthen my knowledge in data analysis and data science.
+I am passionate about solving real-world problems using data and aspire to build a successful career as a Data Analyst or Data Scientist.
 
-Skills
+**Skills**
 
-Python
-SQL
-Microsoft Excel
-Power BI
-Data Visulation
-Data Analytics
+-Python
+-SQL
+-Data Visualization 
+-Data Analytics
 
-Interests
+**Career Goal**
 
-Data Science
-Machine Learning
-Problem Solving
-Learing New Technologies
-
-Goal
-
-My goal is to become a successful Data Analyst and continuosly enhance my technical and analytical skills.
+My goal is to work in the field of Data Analytics and Data Science,where I can apply my technical knowledge,continuously learn new technologies,and contribute to meaningful projects. 
 
 Thank You for visiting my GitHub repository!
