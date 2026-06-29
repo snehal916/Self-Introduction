@@ -6,6 +6,7 @@ I am currently pursing a Bachelor of Engineering(B.E.) in Computer Engineering.
 I am actively developing my skills in Data Analytics and Python to strengthen my knowledge in data analysis and data science.
 
 Skills
+
 Python
 SQL
 Microsoft Excel
@@ -14,6 +15,7 @@ Data Visulation
 Data Analytics
 
 Interests
+
 Data Science
 Machine Learning
 Problem Solving
